@@ -1,0 +1,5 @@
+[
+    { "command": "add_hostname", "caption": "Add hostname" },
+    { "command": "add_ip", "caption": "Add IP" },
+    { "command": "add_ips", "caption": "Add IPs" }
+]
